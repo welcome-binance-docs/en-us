@@ -1,5 +1,4 @@
-/* CSS Styles */
-        :root {
+:root {
             --primary: #0a0a1f;
             --secondary: #1a1a3d;
             --accent: #2d4dff;
@@ -112,8 +111,8 @@
         .stat-item {
             text-align: center;
             padding: 1rem;
-        }
-    </style>
+        }        
+        
 body {
     font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
     line-height: 1.8;
